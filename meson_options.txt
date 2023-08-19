@@ -451,6 +451,7 @@ option(
   value : true,
   description : 'Enable direct rendering in GLX and EGL for DRI',
 )
+
 option('egl-lib-suffix',
   type : 'string',
   value : '',
